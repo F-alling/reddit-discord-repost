@@ -38,7 +38,7 @@ Q:I dont have a bot token!
 A: You can create a discord guide with the guide [here.](https://discordpy.readthedocs.io/en/stable/discord.html)
 
 Q: I dont have a reddit bot!
-A: You can create one here.
+A: You can create one [here.](https://ssl.reddit.com/prefs/apps/)
 
 Q: What is my reddit bot client id?
 A: Your bot client id should be under your reddit bot username
