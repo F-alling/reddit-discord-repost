@@ -52,4 +52,5 @@ A: Use a base64 encoder site to encode the following exactly:
 -# make sure to include the : between them.
 
 Q: The bot says some random giberish when I try to get posts
+
 A: Youve most likely been blocked by reddit. This could be due to multiple reasons, for instance using a vpn or vps. Make sure your bot info is correctly inputed. If its still not working submit a support request to reddit under "I am a developer", and fill it out with the appropriate information.
