@@ -46,11 +46,11 @@ A: Your bot client id should be under your reddit bot username
 Q: What is my reddit bot secret?
 A: Your bot secret should be in the same area as your client id
 
-Q: I dont have the base64 of my bot!
-A: Use a base64 encoder site to encode the following exactly:
-`reddit_bot_client_id`:`reddit_bot_client_secret`
--# make sure to include the : between them.
+~~Q: I dont have the base64 of my bot!~~
+~~A: Use a base64 encoder site to encode the following exactly:
+`reddit_bot_client_id`:`reddit_bot_client_secret`~~
+~~-# make sure to include the : between them.~~
 
-Q: The bot says some random giberish when I try to get posts
+~~Q: The bot says some random giberish when I try to get posts~~
 
-A: Youve most likely been blocked by reddit. This could be due to multiple reasons, for instance using a vpn or vps. Make sure your bot info is correctly inputed. If its still not working submit a support request to reddit under "I am a developer", and fill it out with the appropriate information.
+~~A: Youve most likely been blocked by reddit. This could be due to multiple reasons, for instance using a vpn or vps. Make sure your bot info is correctly inputed. If its still not working~~ submit ~~a support request to reddit under "I am a developer", and fill it out with the appropriate information.~~
